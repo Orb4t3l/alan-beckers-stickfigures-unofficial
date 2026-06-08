@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849c5fe0-300b-4644-bfad-0796bab82afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Agent/conf/actions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Agent/conf/behaviors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Ballista/conf/actions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Ballista/conf/behaviors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Hazard/conf/actions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Hazard/conf/behaviors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/conf/actions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/conf/behaviors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Primal/conf/actions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Primal/conf/behaviors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +32,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "img\\Orange\\conf\\actions.xml;img\\Orange\\hugging_solid05.png;img\\Orange\\dance87.png;img\\Orange\\dance88.png;img\\Orange\\dance89.png;img\\Orange\\dance90.png;img\\Orange\\bounce01.png;img\\Orange\\bounce03.png;img\\Orange\\bounce04.png;img\\Orange\\dance35.png",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "conf\\settings.properties;Shimeji-ee\\com\\group_finity\\mascot\\config\\Configuration.class;img\\Orange\\conf\\actions.xml;img\\Orange\\hugging_solid05.png;img\\Orange\\dance87.png;img\\Orange\\dance88.png;img\\Orange\\dance89.png;img\\Orange\\dance90.png;img\\Orange\\bounce01.png;img\\Orange\\bounce03.png",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
