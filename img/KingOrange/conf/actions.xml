@@ -267,44 +267,6 @@
 				<Pose Image="/dance73.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
 				<Pose Image="/dance74.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
 				<Pose Image="/dance75.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance76.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance77.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance78.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance79.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance80.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance81.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance82.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance83.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance84.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance85.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance86.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance87.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance88.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance89.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance90.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance91.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance92.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance93.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance94.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance95.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance96.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance97.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance98.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance61.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance62.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance63.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance64.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance65.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance66.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance67.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance68.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance69.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance70.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance71.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance72.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance73.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance74.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
-				<Pose Image="/dance75.png" ImageAnchor="64,128" Velocity="0,0" Duration="1" />
 			</Animation>
 		</Action>
 

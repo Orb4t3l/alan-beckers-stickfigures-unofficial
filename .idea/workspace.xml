@@ -5,111 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849c5fe0-300b-4644-bfad-0796bab82afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/adas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/bounce01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/bounce02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/bounce03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/bounce04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/bounce05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/bounce06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/couch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/dangle01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/dangle02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/dangle03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/dangle04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/dangle05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/dangle06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/fall09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hang01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hang02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hang03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hang04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hang05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/hugging_solid08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/jump01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/lay01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pinch07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pull_up01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pull_up02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pull_up03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pull_up04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pull_up05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/pull_up06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/run11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/shime1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/sit01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/sit_legs_down01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/sit_legs_up01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/sit_up01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/stand01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/swing08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/trip01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/trip02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/trip03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/trip04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/trip05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/trip06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/walk01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/walk02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/walk03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/walk04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/walk05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/walk06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb05.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf/settings.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Agent/conf/actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/img/Agent/conf/actions.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/KingOrange/conf/actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/conf/actions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup05.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup06.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/sitlegsdown01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/sit_legs_down01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/sitlegsup01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/sit_legs_up01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/situp01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/sit_up01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb05.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb05.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,11 +72,14 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "img\\KingOrange\\couch.png;img\\KingOrange\\dance_02.png;img\\KingOrange\\bounce05.png;img\\KingOrange\\bounce04.png;img\\KingOrange\\bounce01.png;img\\KingOrange\\run03.png;img\\KingOrange\\run01.png;img\\Orange\\couch01.png;img\\Orange\\bounce04.png;img\\Orange\\bounce03.png",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "img\\KingOrange\\conf\\actions.xml;img\\KingOrange\\situp01.png;img\\KingOrange\\bounce02.png;img\\KingOrange\\bounce03.png;img\\KingOrange\\couch.png;img\\KingOrange\\dance_02.png;img\\KingOrange\\bounce05.png;img\\KingOrange\\bounce04.png;img\\KingOrange\\bounce01.png;img\\KingOrange\\run03.png",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Trevd/alan becker stuff/alan-beckers-stickfigures-unofficial/img/Hazard",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "sweep.chatMode": "Agent",
     "to.speed.mode.migration.done": "true"
   }

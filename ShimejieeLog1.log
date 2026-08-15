@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-08-15T02:42:04.019708900Z</date>
+  <millis>1786761724019</millis>
+  <nanos>708900</nanos>
+  <sequence>6457</sequence>
+  <logger>com.group_finity.mascot.config.AnimationBuilder</logger>
+  <level>SEVERE</level>
+  <class>com.group_finity.mascot.config.AnimationBuilder</class>
+  <method>loadPose</method>
+  <thread>1</thread>
+  <message>Failed to load image: /KingOrange/sit_up01.png</message>
+</record>
+<record>
+  <date>2026-08-15T02:42:04.026880300Z</date>
+  <millis>1786761724026</millis>
+  <nanos>880300</nanos>
+  <sequence>6458</sequence>
+  <logger>com.group_finity.mascot.Main</logger>
+  <level>SEVERE</level>
+  <class>com.group_finity.mascot.Main</class>
+  <method>loadConfiguration</method>
+  <thread>1</thread>
+  <message>Failed to load configuration files</message>
+  <exception>
+    <message>java.io.IOException: Failed to load image /KingOrange/sit_up01.png</message>
+    <frame>
+      <class>com.group_finity.mascot.config.AnimationBuilder</class>
+      <method>loadPose</method>
+      <line>100</line>
+    </frame>
+    <frame>
+      <class>com.group_finity.mascot.config.AnimationBuilder</class>
+      <method>&lt;init&gt;</method>
+      <line>54</line>
+    </frame>
+    <frame>
+      <class>com.group_finity.mascot.config.ActionBuilder</class>
+      <method>&lt;init&gt;</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>com.group_finity.mascot.config.Configuration</class>
+      <method>load</method>
+      <line>75</line>
+    </frame>
+    <frame>
+      <class>com.group_finity.mascot.Main</class>
+      <method>loadConfiguration</method>
+      <line>350</line>
+    </frame>
+    <frame>
+      <class>com.group_finity.mascot.Main</class>
+      <method>run</method>
+      <line>265</line>
+    </frame>
+    <frame>
+      <class>com.group_finity.mascot.Main</class>
+      <method>main</method>
+      <line>132</line>
+    </frame>
+  </exception>
+</record>
