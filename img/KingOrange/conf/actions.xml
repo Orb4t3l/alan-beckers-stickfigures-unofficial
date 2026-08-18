@@ -161,7 +161,7 @@
 		<Action Name="Falling" Type="Embedded" Class="com.group_finity.mascot.action.Fall"
 			RegistanceX="0.05" RegistanceY="0.1" Gravity="1">
 			<Animation>
-				<Pose Image="/fall01.png" ImageAnchor="160,160" Velocity="-4,0" Duration="2" />
+				<Pose Image="/fall01.png" ImageAnchor="160,160" Velocity="-4,0" Duration="40" />
 				<Pose Image="/fall02.png" ImageAnchor="160,160" Velocity="-4,0" Duration="2" />
 				<Pose Image="/fall03.png" ImageAnchor="160,160" Velocity="-4,0" Duration="2" />
 				<Pose Image="/fall04.png" ImageAnchor="160,160" Velocity="-4,0" Duration="2" />
