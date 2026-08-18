@@ -7,45 +7,6 @@
     <list default="true" id="849c5fe0-300b-4644-bfad-0796bab82afa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/KingOrange/conf/actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/conf/actions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance06.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance07.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance08.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/dance9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/dance09.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/hugged_solid04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggedsolid08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/huggingsolid08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup05.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/pullup06.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/pull_up06.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/sitlegsdown01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/sit_legs_down01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/sitlegsup01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/sit_legs_up01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/situp01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/sit_up01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KingOrange/wallclimb05.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/KingOrange/wall_climb05.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
